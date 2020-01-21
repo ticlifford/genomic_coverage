@@ -1,5 +1,6 @@
 # Genomic_coverage
 
+(95% of the code is in coverage_counter.py if you just want to take a peak)
 Genomic coverage in NGS data 
 
 ### Prompt
